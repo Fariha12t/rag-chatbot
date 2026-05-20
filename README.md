@@ -149,6 +149,4 @@ rag-chatbot/
 
 ---
 
-## License
 
-MIT
